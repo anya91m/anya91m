@@ -1,18 +1,8 @@
-### Hi there 👋
+# Ayan Ali 
+👋🏾 Hi, I'm Ayan. I'm currently a Junior Frontend Developer at [Elsewhen](https://www.elsewhen.com/), having fun learning and working with some really awesome people ✨. 
 
-
-**anya91m/anya91m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
-https://github-readme-streak-stats.herokuapp.com/?user=anya91m
-
-
-
+**Bio**
+- 🔭 I’m currently working on the Elsewhen website 
+- 🌱 I’m currently learning about Design Systems with React & Storybook 
+- 💬 Ask me about career changing to tech 
+- ⚡ Fun fact: love everything coffee ☕️ & trying to learn Arabic & Danish! 

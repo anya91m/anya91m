@@ -1,8 +1,12 @@
 # Ayan Ali 
-👋🏾 Hi, I'm Ayan. I'm currently a Junior Frontend Developer at [Elsewhen](https://www.elsewhen.com/), having fun learning and working with some really awesome people ✨. 
+👋🏾 Hi, I'm Ayan. I'm a Junior Frontend Developer at [Elsewhen](https://www.elsewhen.com/), having fun learning and working with really awesome people ✨. 
 
 **Bio**
-- 🔭 I’m currently working on the Elsewhen website 
-- 🌱 I’m currently learning about Design Systems with React & Storybook 
-- 💬 Ask me about career changing to tech 
-- ⚡ Fun fact: love everything coffee ☕️ & trying to learn Arabic & Danish! 
+- 👩🏾‍💻 Le Wagon London Bootcamp alumn   
+- 🔭 Currently working on: my personal blog  
+- 🌱 Currently learning: Design Systems with React & Storybook
+- 📚 Currently reading: TypeScript in 50 Lessons 
+- 💬 Ask me about career changing to tech and 
+- ⚡ Fun fact: love everything coffee ☕️, learning languages (intermediate Arabic & re-learning Danish), & playing the Oud (beginner)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anya91m)](https://git.io/streak-stats)

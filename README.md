@@ -3,9 +3,6 @@
 
 **Bio**
 - 👩🏾‍💻 Le Wagon London Bootcamp alumn   
-- 🔭 Currently working on: my personal blog  
-- 🌱 Currently learning: Design Systems with React & Storybook
-- 📚 Currently reading: TypeScript in 50 Lessons 
 - 💬 Ask me about career changing to tech 
 - ⚡ Fun fact: love everything coffee ☕️, learning languages (intermediate Arabic & re-learning Danish), & playing the Oud (beginner)
 

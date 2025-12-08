@@ -1,5 +1,5 @@
 # Ayan Ali 
-👋🏾 Hi, I'm Ayan. I'm a Junior Frontend Developer at [Elsewhen](https://www.elsewhen.com/), having fun learning and working with really awesome people ✨. 
+👋🏾 Hi, I'm Ayan. I'm a Frontend Developer at [Elsewhen](https://www.elsewhen.com/), having fun learning and working with really awesome people ✨. 
 
 **Bio**
 - 👩🏾‍💻 Le Wagon London Bootcamp alumn   

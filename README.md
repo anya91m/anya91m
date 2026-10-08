@@ -1,8 +1,6 @@
 # Ayan Ali
 
-👋🏾 Hi, I'm Ayan. Frontend Engineer · Product-minded · UK, remote
-
-Five years building production web products across marketing platforms, enterprise data tools and internal apps.
+👋🏾 Hi, I'm Ayan. A frontend engineer with five years building production web products across marketing platforms, enterprise data tools and internal apps.
 
 ## What I bring
 

@@ -4,22 +4,26 @@
 
 ## What I bring
 
-- Shape the architecture and foundations products are built on
-- Take ownership of hard problems, from platform migrations to production defects
-- Set the testing, performance and CI standards teams build within
-- Align engineering, design and the business around one solution
-- Design AI-assisted delivery workflows with automated quality gates
+I tend to be the engineer who:
+
+- shapes the architecture and foundations products are built on
+- takes on the hard problems, from platform migrations to production bugs
+- sets the testing, performance and CI standards a team builds on
+- brings engineering, design and the business together around one solution
+- builds AI-assisted workflows that speed up delivery without lowering the bar
 
 ## Selected impact
 
-- Shipped features for enterprise media-planning tools used across a global agency network
-- Turned performance into a measured, enforced standard on every release
-- Built unit, component and end-to-end testing from zero
-- Cut content publishing time from weeks to days
+Along the way I've:
+
+- shipped features for media-planning tools used across a global agency network
+- made performance something measured on every pull request
+- introduced component and end-to-end testing to a codebase that had none
+- taken content publishing from weeks to days
 
 ## Stack
 
-React · TypeScript · Next.js · Redux Toolkit · TanStack Query · SCSS Modules
-Storybook · Vitest · Playwright · Chromatic · GitHub Actions · Lighthouse CI
-Node.js · Python · Supabase · PostgreSQL · GraphQL · Google Cloud
+React · TypeScript · Next.js · Redux Toolkit · TanStack Query · SCSS Modules  
+Storybook · Vitest · Playwright · Chromatic · GitHub Actions · Lighthouse CI  
+Node.js · Python · Supabase · PostgreSQL · GraphQL
 

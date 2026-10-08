@@ -7,12 +7,10 @@ Five years building production web products across marketing platforms, enterpri
 ## What I bring
 
 - Shape the architecture and foundations products are built on
-- Take ownership and move work from idea to production
-- Step into difficult problems, from platform migrations to production defects
-- Agree API contracts with backend teams and build the data layers that consume them
+- Take ownership of hard problems, from platform migrations to production defects
 - Set the testing, performance and CI standards teams build within
-- Understand what engineering, design and the business each need, and align them on one solution
-- Design AI-assisted delivery workflows with human checkpoints and automated quality gates
+- Align engineering, design and the business around one solution
+- Design AI-assisted delivery workflows with automated quality gates
 
 ## Selected impact
 
